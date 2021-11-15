@@ -14,7 +14,8 @@ Ni behöver **inte**:
 
 ## Specifikationer
 
-Grid är 6 kolumner. Sidan har en max-bredd på 1000px.
+* Grid är 6 kolumner. 
+* Sidan har en max-bredd på 1000px.
 
 ## Inlämning
 
